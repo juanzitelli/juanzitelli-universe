@@ -1,3 +1,1 @@
-// component exports
-export * from "./button";
-export * from "./header";
+export * from "@ui/components/ui/button";
